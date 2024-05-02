@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+      <head>
+	      <title>3.Seite</title>
+	  </head>
+	  <body>
+	  <div style=“width:30%;background:#F00000;float:left“>
+	  
+	        <h1>Das ist die dritte Seite</h1>
+	  </div>
+	          
+			  <div style=“width:70%;background:#00F000;float:left“>
+			  <a href="./https://www.htleisenstadt.at//">
+			  <img src="https://www.htleisenstadt.at/wp-content/uploads/2023/04/Maschinenbau2.jpg">
+			  width=25%
+	  </div>
+	  </a>
+	        <h2>This is the second Heading</h2>
+			   
+			    <a href="file:///F:/Informatik/index.html">
+				Hier geht es zur ersten Seite
+				</a>
+			</p>
+			<p>
+			    <a href="file:///F:/Informatik/page2.html">
+			    Hier geht es zu zweiten Seite 
+				</a>
+			
+			
+			</p>
+			<p>
+			    <a href="https://www.google.com//">
+			    Hier geht es zu Google
+				</a>
+			</p>
+			
+			</body>
+</html>
+
+				
+				
